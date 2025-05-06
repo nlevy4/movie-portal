@@ -17,5 +17,3 @@ A React app that lets you search for movies and view details like title, year, p
 - React
 - OMDb API
 
-## License:
-MIT License
