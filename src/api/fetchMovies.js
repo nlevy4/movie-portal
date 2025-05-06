@@ -35,6 +35,6 @@ const fetchMovieDetails = async (id, errorCallback) => {
         }
     } catch (err) {
         errorCallback('An error occurred while fetching movie details.');
-        return null; // 🛠️ important!
+        return null; 
     }
 };
